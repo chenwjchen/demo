@@ -1,3 +1,5 @@
+SRC-IP-CIDR,192.168.10.207/32,no-resolve
+SRC-IP-CIDR,192.168.10.90/32,no-resolve
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.net
